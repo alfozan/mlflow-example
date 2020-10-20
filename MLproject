@@ -5,4 +5,4 @@ docker_env:
 
 entry_points:
   main:
-    command: "python train.py"
+    command: "python3 train.py"
