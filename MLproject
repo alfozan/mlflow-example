@@ -1,0 +1,8 @@
+name: mlflow_example
+
+docker_env:
+  image: mlflow_example
+
+entry_points:
+  main:
+    command: "python train.py"
